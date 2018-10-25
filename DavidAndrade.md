@@ -12,7 +12,7 @@ Another very important part of the job is to make sure that our engineering is u
 
 
 ## Personal Principles / Values
-I value improvement, excellence, team work and "getting things done". I try to hold everyone, myself included, to high standards. But we are all a work in progress, just like the software we create; if I can help you with your development or you have suggestions for me, let’s chat! Also, I believe that we are here to do something special and the opportunities in front of us, to improve our Products, are huge - shall we? Then let’s do it together, we can achieve a lot if we work well as a team.
+I value improvement, team work and "getting things done". I try to hold everyone, myself included, to high standards. But we are all a work in progress, just like the software we create; if I can help you with your development or you have suggestions for me, let’s chat! Also, I believe that we are here to do something special and the opportunities in front of us, to improve our Products, are huge - shall we? Then let’s do it together, we can achieve a lot if we work well as a team.
 
 Other things you should have in mind are that I will do my best to be fully transparent with you, there are things that I may not be able to share straight away for whatever reason but that is what I would like to do. I will have your back, it doesn’t really matter the situation, if you are doing something you believe is the right thing to do and with good intentions, then I will be there for you if it goes wrong. When we disagree, I will tell you in private and I’m sure we can work it out.
 
