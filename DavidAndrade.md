@@ -16,7 +16,7 @@ I value improvement, team work and "getting things done". I try to hold everyone
 
 Other things you should have in mind are that I will do my best to be fully transparent with you, there are things that I may not be able to share straight away for whatever reason but that is what I would like to do. I will have your back, it doesn’t really matter the situation, if you are doing something you believe is the right thing to do and with good intentions, then I will be there for you if it goes wrong. When we disagree, I will tell you in private and I’m sure we can work it out.
 
-## One-on-Ones
+## One-to-Ones
 If you are in my direct team, I will meet with you every week. These conversations will vary from developing your skills long term, to burning issues we may need to talk about. Regardless of what the conversation is, I always want to know how you are doing and what you want to talk about, please don’t be shy and tell me. Also, I try to have a lot of informal conversations, grab a coffee or a simple walk around the office. Yes, I sometimes do that annoying thing of sitting next to you just to see how you’re doing (sorry if I interrupt whatever you were doing and feel free to tell me to go away). If you are not in my direct team, and we do have a big team, I will very likely try the more informal approach as well as the occasional 121 that goes in the diary, but I’m always on slack, phone and email if you want to get in touch.
 
 ## Feedback (how to give & how you give)
