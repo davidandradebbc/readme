@@ -1,4 +1,4 @@
-# David Andrade – Head of Software Engineering – BBC iPlayer & BBC Sounds
+# David Andrade – Head of Software Engineering – BBC iPlayer & BBC Sounds (out of date, new version coming soon...)
 
 ## What is this?
 This is one of the ways for me to give you context of who I am, what I believe in, what my job is and how all of these things come together day to day.
